@@ -12,9 +12,10 @@ img {
     grid-template-rows: 1fr;
     grid-template-columns: 2fr 10fr;
 }
-.content {
+.app-wrapper-content {
     grid-area: c;
     padding: 15px;
+    background: #e1e1e1;
 }
 
 

@@ -1,0 +1,24 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.DialogItems {
+
+}
+
+.dialog {
+    font-weight: bold;
+}
+
+.messages {
+
+}
+
+.messages {
+
+}
+
+.active {
+    color: #4795d3;
+}
